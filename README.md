@@ -1,5 +1,5 @@
 # universitymanagementsystem
-This is a desktop based application using Java concepts,java Swing,JFrame.It is applicable for managing university administrative and academic activities.
+This is a desktop based application using Java concepts,java Swing,JFrame and for database used mySQL and JDBC.It is applicable for managing university administrative and academic activities.
 Features:
 Student Management: Registration, enrollment, profile management, and access to academic records.
 Course Management: Course creation, scheduling, and administration of assignments and exams.
